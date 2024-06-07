@@ -1,0 +1,9 @@
+#miboton{
+    background-color: hsl(208, 100%, 43%);
+    color: #FFFFFF;
+    margin: 10px;
+    border: 1px solid black;
+    padding: 20px, 30px;
+    margin-top: 10px;
+    cursor: pointer;
+}
